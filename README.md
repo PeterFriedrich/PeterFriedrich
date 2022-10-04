@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeterFriedrich
-- 👀 I’m interested in Machine Learning and Data Science for social good
+- 👀 I’m interested in social good related data science and machine learning applications.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/peter-friedrich-a8b56810b/)
 
 <!---
